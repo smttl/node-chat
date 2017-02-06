@@ -8,7 +8,11 @@ server.listen(3000);
 
 // routing 
 app.get('/', function (req, res) {
+<<<<<<< HEAD
   res.sendFile(__dirname + '/public/index.html');
+=======
+  res.sendFile(__dirname + 'index.html');
+>>>>>>> origin/master
 });
 
 // usernames which are currently connected to the chat
