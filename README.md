@@ -1,18 +1,18 @@
-## Information
-Gerçek zamanlı chat uygulaması 
+## Bilgi
+GerÃ§ek zamanlÄ± chat uygulamasÄ± 
 
-## Usage
-+ `npm install` terminale yazıp gerekenleri kurun
+## Kurulum
++ `npm install` terminale yazÄ±p gerekenleri kurun
 
-Kurulum için node js lazımdır
+Kurulum iÃ§in node js lazÄ±mdÄ±r
  [nodejs](http://nodejs.org) 
 
-In project folder
-+ `node server.js` yazarak çalıştırın
-+ [localhost:3000](localhost:3000) tarayıcıda yazarak ulaşabilirsiniz
+Proje dosyasÄ±nda
++ `node server.js` yazarak Ã§alÄ±ÅŸtÄ±rÄ±n
++ [localhost:3000](localhost:3000) tarayÄ±cÄ±da yazarak ulaÅŸabilirsiniz
 
-## Configure
-`server.js` den konfigüre edebilirsiniz
+## KonfigÃ¼rasyon
+`server.js` den konfigÃ¼re edebilirsiniz
 ```js
 var file_path = "/index.html";
 ```
